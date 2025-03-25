@@ -7,4 +7,6 @@ This is a simple **React Native** application that displays a list of users with
   
 
 https://github.com/user-attachments/assets/c8540bfc-cf76-4c0b-936c-0bb61bb19dd6
-
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/Nadeen-Awwad/react-native-users-app.git
