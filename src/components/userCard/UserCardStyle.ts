@@ -21,7 +21,7 @@ const styles = StyleSheet.create({
       fontWeight: 'bold',
     },
     link: {
-      color: '',
+      color: 'blue',
       textDecorationLine: 'underline',
       marginTop: 4,
     },

@@ -31,6 +31,8 @@
         paddingHorizontal: 10,
         marginBottom: 20,
       },
+      noUserLable:{
+        textAlign: 'center'      }
   
   });
   export default styles;
